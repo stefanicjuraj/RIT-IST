@@ -1,0 +1,75 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  overflow-x: hidden;
+}
+
+figure {
+  background-color: whitesmoke;
+  padding: 32px;
+  border-radius: 16px;
+}
+
+.orange {
+  color: #f76902;
+}
+
+/* sections */
+/* section load */
+#section-about {
+  padding-top: 96px;
+  padding-bottom: 32px;
+}
+#section-load {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+/* section minors */
+#section-minors {
+  width: 75%;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* section undergraduate */
+#section-undergraduate {
+  margin-top: 128px;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  background-color: whitesmoke;
+}
+
+/* section undergraduate */
+#section-graduate {
+  margin-top: 128px;
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+/* section faculty */
+#section-faculty {
+  margin-top: 128px;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  background-color: whitesmoke;
+}
+
+/* section button */
+#section-button {
+  margin-top: 128px;
+  margin-bottom: 128px;
+  text-align: center;
+}
+
+/* coop & employment */
+.coop,
+.employment {
+  border-radius: 16px;
+  width: 70%;
+  margin-top: 64px;
+  margin-bottom: 32px;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -50,15 +50,15 @@ API endpoints:
 ## Gallery
 
 <div align="left">
-    <img src="./media/RIT-IST-undergraduate.png" width="60%" height="60%">
+    <img src="./media/RIT-IST-undergraduate.png" width="80%" height="80%">
 </div>
 
 <div align="left">
-    <img src="./media/RIT-IST-minor.png" width="60%" height="60%">
+    <img src="./media/RIT-IST-minor.png" width="80%" height="80%">
 </div>
 
 <div align="left">
-    <img src="./media/RIT-IST-coop.png" width="60%" height="60%">
+    <img src="./media/RIT-IST-coop.png" width="80%" height="80%">
 </div>
 
 <br />
